@@ -1,2 +1,2 @@
-# WeBAPN
+# WebAPN
 Web-based Automation PetriNet
